@@ -1,0 +1,19 @@
+# 构建产物
+build/
+
+# macOS 系统文件
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# 编辑器临时文件
+*.swp
+*.swo
+*~
+
+# WorkBuddy 工作数据
+.workbuddy/
+
+# 临时文件
+*.tmp
